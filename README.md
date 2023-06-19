@@ -8,7 +8,7 @@ After successfully Installation Import it in NodeJS file (root file) <br>
  </p>
 
  <h1>Middleware in ExpressJS</h1>
- ![Screenshot 2023-06-16 123316](https://github.com/waaw-meem/Working-with-Express/assets/39905929/817848c8-cfa1-4de3-8bb4-e5ae2ad41ed1)
+![middleware](https://github.com/waaw-meem/Working-with-Express/assets/39905929/3584a080-a5c7-40de-a8ae-663e74e6c10b)
 
 
  <p>Middleware means that incoming request s automatically funneled throuugh a bunch of function by expressjs
